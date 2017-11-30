@@ -1,8 +1,17 @@
 <template>
   <div class="rodape">
-    <img class="img-responsive" src="../textures/ue.png">
-    <img class="img-responsive" src="../textures/pt2020.png">
-    <img class="img-responsive" src="../textures/c2020.png">
+    <b-container fluid class="logocontainer">
+      <b-row>
+        <b-col>
+          <img class="img-responsive" src="../textures/ue.png">
+        </b-col>
+        <b-col>
+          <img class="img-responsive" src="../textures/pt2020.png">
+        </b-col>
+        <b-col>
+          <img class="img-responsive" src="../textures/c2020.png">
+        </b-col>
+      <b-row>
   </div>
 </template>
 <script>
@@ -10,13 +19,13 @@ export default {
 }
 </script>
 
-<style>
+<style scoped>
 .rodape{
   width:100%;
   float:left;
-  text-align: center;
 }
-.rodape img{
+
+.img{
   display:inline-block;
 }
 
