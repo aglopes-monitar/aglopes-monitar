@@ -1,7 +1,7 @@
 <template>
-  <div class="docscontent">
+  <div class="page-content">
     <h1>Documentos!</h1>
-    
+
   </div>
 </template>
 <script>

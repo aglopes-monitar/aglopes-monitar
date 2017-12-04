@@ -1,5 +1,5 @@
 <template>
-  <div class="equipacontent">
+  <div class="page-content">
     <h1>A equipa!</h1>
   </div>
 </template>
