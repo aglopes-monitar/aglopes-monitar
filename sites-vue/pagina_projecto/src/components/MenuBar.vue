@@ -23,7 +23,7 @@ export default {
 }
 </script>
 
-<style>
+<style scoped >
 .active{
   /*border-style: solid;
   border-width: 0px 0px 2px 0px;

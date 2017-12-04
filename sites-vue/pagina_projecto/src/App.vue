@@ -41,4 +41,10 @@ body{
 .allcontent{
   float:left;
 }
+.page-content{
+  width:80%;
+  float:left;
+  margin-left:10%;
+  margin-right:10%;
+}
 </style>
