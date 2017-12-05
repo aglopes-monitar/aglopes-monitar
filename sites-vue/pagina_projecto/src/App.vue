@@ -44,7 +44,18 @@ body{
 .page-content{
   width:80%;
   float:left;
+  margin-top:20px;
+  margin-bottom:20px;
   margin-left:10%;
   margin-right:10%;
+}
+.page-content h1{
+  font-size:44px;
+  color:darkblue;
+  margin-bottom:20px;
+}
+.page-content p{
+  font-size:30px;
+  text-align: justify;
 }
 </style>

@@ -16,6 +16,5 @@ export default {
   float:left;
   padding-top:2px;
   padding-bottom: 2px;
-  margin-bottom:10px;
 }
 </style>
